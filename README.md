@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jesús</h1>
+<h1 align="center">Hi 👋👨‍💻, I'm Jesús</h1>
 <h3 align="center">A passionate Data Engineer & Python Developer from Spain</h3>
 
 - 🔭 I’m currently working on **developing and optimizing ETL** at **NTT DATA Europe & Latam**
