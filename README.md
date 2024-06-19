@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **developing and optimizing ETL** at **NTT DATA Europe & Latam**
 
-- 🌱 I’m currently learning **full-stack frameworks**
+- 🌱 I’m currently learning about **web development ecosystem**
 
 - 👯 I’m looking to collaborate on **amazing and innovative projects**
 
