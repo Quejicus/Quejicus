@@ -1,49 +1,56 @@
-# ⚡ The Agentic Half-Blood Prince 👨‍💻
-
+<h1 align="center">Jesús (Quejicus)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3670A0&center=true&vCenter=true&width=550&lines=Data+%26+Agentic+Engineer+at+NTT+DATA;Mastering+the+Dark+Arts+of+ETL;Building+Autonomous+AI+Agents;I+Solemnly+Swear+I+am+Up+to+No+Good" alt="Hybrid Typing SVG" />
-</p>
-
----
-
-### 🏰 About Me
-I am a **Data & Agentic Engineer** from Spain. Like a Potions Master at the Ministry of Data, I specialize in brewing high-performance ETL pipelines and orchestrating intelligent agents.
-
-- 🔭 **Current Post:** Optimizing ETL architectures at **NTT DATA Europe & Latam**.
-- 🧠 **Researching:** Agentic Engineering, Multi-Agent Systems, and LLM Ops.
-- ⚡ **Fun Fact:** My nickname **'Quejicus'** is the Spanish translation for **'Snivellus'** (Snape's nickname). I guess you could call my code *The Half-Blood Prints*.
-
----
-
-### 📊 Magical Metrics
-<p align="center">
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quejicus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quejicus&layout=compact&langs_count=7&theme=tokyonight" />
+  Data & Agentic Engineer focused on high-performance ETL, data platforms, and autonomous AI workflows.
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Quejicus&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://jesus-dataengineer-portfolio.netlify.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/jesus-data-engineer">LinkedIn</a> •
+  <a href="mailto:jesusmugo91@gmail.com">Email</a>
 </p>
 
----
+## Current Role
+- Data Engineer at **NTT DATA Europe & Latam**.
+- Building and optimizing ETL pipelines for scale, reliability, and maintainability.
+- Expanding into **Agentic Engineering** and multi-agent orchestration patterns.
 
-### 🧪 My Spellbook (Tech Arsenal)
+## Focus Areas
+- **Data Engineering:** ETL design, orchestration, and performance tuning.
+- **Agentic Systems:** Tool-calling agents, workflow reliability, and LLM-enabled automation.
+- **Platform & Delivery:** Cloud-native deployments with observability and CI/CD discipline.
 
-| **Alchemy (Data)** | **Charms (Web)** | **Apparition (Ops)** |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white) | ![Next JS](https://img.shields.io/badge/-Next.js-black?logo=next.js) | ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white) |
-| ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
-| ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?logo=fastapi&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2671E5?logo=github-actions&logoColor=white) |
+## Stack Snapshot
+**Core:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Apache_Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
----
+**Platform:**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🦉 Send a Hedwig
-<p align="left">
-<a href="https://linkedin.com/in/jesus-data-engineer" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:jesusmugo91@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://jesus-dataengineer-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Portfolio" /></a>
-</p>
+**Web & Product:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-2C2052?style=flat-square&logo=astro&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+## Selected GitHub Metrics
 <p align="center">
-  <i>"Always."</i> — <b>Severus Snape</b>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Quejicus&show_icons=true&hide_border=true&rank_icon=github&title_color=3670A0&icon_color=3670A0" alt="GitHub stats for Quejicus" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quejicus&layout=compact&hide_border=true&title_color=3670A0" alt="Top languages for Quejicus" />
 </p>
+
+## Contact
+If you are hiring for Data/AI engineering roles or exploring collaboration, reach out via:
+- [LinkedIn](https://linkedin.com/in/jesus-data-engineer)
+- [Email](mailto:jesusmugo91@gmail.com)
+- [Portfolio](https://jesus-dataengineer-portfolio.netlify.app/)
+
+---
+_Fun note: "Quejicus" is my playful nod to the Harry Potter universe._
