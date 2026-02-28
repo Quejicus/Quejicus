@@ -49,4 +49,4 @@
 Open to Data/AI engineering roles and technical collaborations.
 
 ---
-_Fun note: My nickname **'Quejicus'** is the Spanish translation for **'Snivellus'** (Snape's nickname)._
+_Fun note: My nickname **'Quejicus'** comes from the Spanish translation of **'Snivellus'** (Snape's nickname) in the Harry Potter universe._
