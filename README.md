@@ -42,15 +42,11 @@
 
 ## Selected GitHub Metrics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Quejicus&show_icons=true&hide_border=true&rank_icon=github&title_color=3670A0&icon_color=3670A0" alt="GitHub stats for Quejicus" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quejicus&layout=compact&hide_border=true&title_color=3670A0" alt="Top languages for Quejicus" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quejicus&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=3670A0&icon_color=3670A0" alt="GitHub stats for Quejicus" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quejicus&layout=compact&langs_count=7&hide_border=true&title_color=3670A0" alt="Top languages for Quejicus" />
 </p>
 
-## Contact
-If you are hiring for Data/AI engineering roles or exploring collaboration, reach out via:
-- [LinkedIn](https://linkedin.com/in/jesus-data-engineer)
-- [Email](mailto:jesusmugo91@gmail.com)
-- [Portfolio](https://jesus-dataengineer-portfolio.netlify.app/)
+Open to Data/AI engineering roles and technical collaborations.
 
 ---
 _Fun note: "Quejicus" is my playful nod to the Harry Potter universe._
