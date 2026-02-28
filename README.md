@@ -1,6 +1,7 @@
-<h1 align="center">Jesús (Quejicus)</h1>
+# Jesús (Quejicus) | Data & Agentic Engineer
+
 <p align="center">
-  Data & Agentic Engineer focused on high-performance ETL, data platforms, and autonomous AI workflows.
+  Turning complex data pipelines into reliable products and evolving them toward autonomous AI systems.
 </p>
 
 <p align="center">
@@ -9,44 +10,53 @@
   <a href="mailto:jesusmugo91@gmail.com">Email</a>
 </p>
 
-## Current Role
-- Data Engineer at **NTT DATA Europe & Latam**.
-- Building and optimizing ETL pipelines for scale, reliability, and maintainability.
-- Expanding into **Agentic Engineering** and multi-agent orchestration patterns.
+## Profile Snapshot
 
-## Focus Areas
-- **Data Engineering:** ETL design, orchestration, and performance tuning.
-- **Agentic Systems:** Tool-calling agents, workflow reliability, and LLM-enabled automation.
-- **Platform & Delivery:** Cloud-native deployments with observability and CI/CD discipline.
+| Area | Details |
+| --- | --- |
+| Current Role | Data Engineer at **NTT DATA Europe & Latam** |
+| Primary Work | ETL optimization, scalable orchestration, and delivery reliability |
+| Growth Track | Agentic Engineering, multi-agent workflows, and LLM operations |
+| Location | Spain |
 
-## Stack Snapshot
-**Core:**  
+## What I Build
+
+| Track | Scope | Typical Outcomes |
+| --- | --- | --- |
+| Data Engineering | ETL design, Airflow orchestration, data platform hardening | Faster pipelines, fewer incidents, predictable delivery |
+| Agentic Systems | Tool-calling agents, orchestration patterns, evaluation loops | Reliable automation and reproducible AI-assisted workflows |
+| Platform Enablement | Cloud + containers + CI/CD | Deployable, observable, and maintainable services |
+
+## Technology Mix
+
+**Languages and Data**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Apache_Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-**Platform:**  
+**Frameworks and Orchestration**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Apache_Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**Infrastructure and Delivery**  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub_Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Web & Product:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-2C2052?style=flat-square&logo=astro&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-## Selected GitHub Metrics
+## Metrics
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quejicus&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=3670A0&icon_color=3670A0" alt="GitHub stats for Quejicus" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quejicus&layout=compact&langs_count=7&hide_border=true&title_color=3670A0" alt="Top languages for Quejicus" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quejicus&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=005F73&icon_color=0A9396" alt="GitHub stats for Quejicus" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quejicus&layout=compact&langs_count=7&hide_border=true&title_color=005F73" alt="Top languages for Quejicus" />
 </p>
 
-Open to Data/AI engineering roles and technical collaborations.
+Open to Data Engineering and AI Engineering opportunities, especially ETL modernization and agentic workflow projects.
 
 ---
-_Fun note: "Quejicus" is my playful nod to the Harry Potter universe._
+_Personal note: "Quejicus" is a subtle reference to a favorite Harry Potter character arc._
